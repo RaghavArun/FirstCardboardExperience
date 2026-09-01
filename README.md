@@ -12,7 +12,7 @@ I believe this is a game because there are set rules and a goal to achieve the h
 
 It is very easy to hit the target thanks to the current settings I have for the ball's speed but getting a high score is tricky, especially because the target moves. Without the target moving, there would not be any real stimulus to the game once the player hits the bullseye one time on a static target. They can just stand still and eventually hit it again. 
 
-Randomized variation like this is a historically good way to maintain engagement. Video games in the "Roguelike" genre such as Hades and Risk of Rain are defined by their randomized levels that make every playthrough unique, and classic "runner" phone games like Subway Surfers and Temple Run procedurally generate their levels for endlessly fresh gameplay. 
+Randomized variation like this is a historically good way to maintain engagement. Video games in the "Roguelike" genre such as _Hades_ and _Risk of Rain_ are defined by their randomized levels that make every playthrough unique, and classic "runner" phone games like _Subway Surfers_ and _Temple Run_ procedurally generate their levels for endlessly fresh gameplay. 
 
 I also changed the ball to have a new material to pay homage to [Calvinball]([url](https://calvinandhobbes.fandom.com/wiki/Calvinball)), the best game about a ball: 
 
