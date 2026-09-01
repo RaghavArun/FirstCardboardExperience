@@ -15,3 +15,7 @@ It is very easy to hit the target thanks to the current settings I have for the 
 Randomized variance like this is always a good way to keep engagement. The term "Roguelike" for video games such as Hades are defined by their randomized levels that make every playthrough unique, and classic "runner" phone games like Subway Surfers and Temple Run procedurally generate their levels. 
 
 I also changed the ball to have a new material to pay homage to [Calvinball]([url](https://calvinandhobbes.fandom.com/wiki/Calvinball)), the best game about a ball: 
+
+<div align="center">
+  <img src="cardboardball_calvin.png" alt="Calvinball" width="500">
+</div>
