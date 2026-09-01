@@ -7469,3 +7469,209 @@ Total: 8.943167 ms (FindLiveObjects: 0.250750 ms CreateObjectMapping: 0.497500 m
 
 Prepare: number of updated asset objects reloaded= 0
 [usbmuxd] Detached: 1 00008150-001110A60E62401C
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Thread 0x17654b000 may have been prematurely finalized
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.420 seconds
+Domain Reload Profiling: 2474ms
+	BeginReloadAssembly (1476ms)
+		DisableScriptedObjects (93ms)
+		ReleaseScriptingObjects (6ms)
+		CreateAndSetChildDomain (511ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (101ms)
+	LoadAllAssembliesAndSetupDomain (459ms)
+		LoadAssemblies (737ms)
+		AnalyzeDomain (174ms)
+			TypeCache.Refresh (30ms)
+			BuildScriptInfoCaches (136ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (420ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			BeforeProcessingInitializeOnLoad (58ms)
+			ProcessInitializeOnLoadAttributes (163ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5309 unused Assets / (2.0 MB). Loaded Objects now: 6096.
+Memory consumption went from 153.7 MB to 151.7 MB.
+Total: 7.903333 ms (FindLiveObjects: 0.352500 ms CreateObjectMapping: 1.196625 ms MarkObjects: 4.901292 ms  DeleteObjects: 1.452541 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-01T07:21:43.391741Z
+  Time since last request: 3110.55935529199996 seconds.
+  importAddress: GUID: 98015eb30108048a38465d5a383d574a - Path: Assets/TargetMovement.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 98015eb30108048a38465d5a383d574a - Path: Assets/TargetMovement.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 98015eb30108048a38465d5a383d574a' -> (Import Result ID: 'ea3a8e52bcb3c88ccd901e516d081ea6') in 0.047 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=edc67b2fe62d65c66b12b9eb29d1e0ef DependenciesID=f8f053dff598bf0d6a95d35c026847b5 StaticDependenciesID=98b014a1144aa980e02491178fb585b6 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7 unused Assets / (342.3 KB). Loaded Objects now: 6096.
+Memory consumption went from 145.0 MB to 144.7 MB.
+Total: 13.492583 ms (FindLiveObjects: 0.441167 ms CreateObjectMapping: 0.881541 ms MarkObjects: 11.769500 ms  DeleteObjects: 0.400084 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-01T07:23:34.750619Z
+  Time since last request: 111.30964029099999 seconds.
+  importAddress: GUID: c74b6df1c3aae4bbca220c38f3859ddc - Path: Assets/calvinball.jpg - Importer: PreviewImporter
+Importing 'GUID: c74b6df1c3aae4bbca220c38f3859ddc - Path: Assets/calvinball.jpg - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: c74b6df1c3aae4bbca220c38f3859ddc' -> (Import Result ID: 'f02d2b3f939fc20847519832a1b994cf') in 0.153 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1b0fb5a15130418f60cf1ad417fead13 DependenciesID=e3edfdbec338776b7ce57f131e34819b StaticDependenciesID=fe2a779e6fc86b1470caca30d1abbe64 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-01T07:23:35.727974Z
+  Time since last request: 0.820966625 seconds.
+  importAddress: GUID: c74b6df1c3aae4bbca220c38f3859ddc - Path: Assets/calvinball.jpg - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: c74b6df1c3aae4bbca220c38f3859ddc - Path: Assets/calvinball.jpg - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: c74b6df1c3aae4bbca220c38f3859ddc' -> (Import Result ID: 'd8e2a724c93a930d9d49fe940919aa65') in 0.032 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=589de1fca41504c9c4f613ea0c951394 DependenciesID=b7d6f678cd10d139f4f6d0f5f6bc2b00 StaticDependenciesID=ed590f6661273ec0fe9d4c245278ceaf 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-01T07:23:58.356128Z
+  Time since last request: 22.594516042 seconds.
+  importAddress: GUID: 41880f282054b4b1ea2457fa77c6106d - Path: Assets/PhysicsBall.prefab - Importer: PreviewImporter
+Importing 'GUID: 41880f282054b4b1ea2457fa77c6106d - Path: Assets/PhysicsBall.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 41880f282054b4b1ea2457fa77c6106d' -> (Import Result ID: '646aacbf2e839d3a172abf3a6e4a4e14') in 0.219 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=06a7e026335d6b0b452dd5b71f31557a DependenciesID=f0d8b1b605fc9fe86c803fc9cbd6128d StaticDependenciesID=b18f84cfca8c4fb67fbeaaf2c48a66fb 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-01T07:23:59.336016Z
+  Time since last request: 0.757569958 seconds.
+  importAddress: GUID: 10400989c3f21414584be7285ee96c05 - Path: Assets/Materials/calvinball.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 10400989c3f21414584be7285ee96c05 - Path: Assets/Materials/calvinball.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 10400989c3f21414584be7285ee96c05' -> (Import Result ID: 'd2506cbe1bc0f11ba2e7b9ba41556815') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7a8671c04a6c99e79e1e4860847bd162 DependenciesID=917a072db278b7acf2ba9a88b1f395a3 StaticDependenciesID=76e9220f0e0bc220739e674b2afc60cd 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Thread 0x17004f000 may have been prematurely finalized
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.475 seconds
+Domain Reload Profiling: 912ms
+	BeginReloadAssembly (161ms)
+		DisableScriptedObjects (9ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (218ms)
+		LoadAssemblies (191ms)
+		AnalyzeDomain (14ms)
+			TypeCache.Refresh (8ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (475ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			BeforeProcessingInitializeOnLoad (63ms)
+			ProcessInitializeOnLoadAttributes (190ms)
+			ProcessInitializeOnLoadMethodAttributes (55ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5309 unused Assets / (1.6 MB). Loaded Objects now: 6107.
+Memory consumption went from 158.1 MB to 156.5 MB.
+Total: 9.837625 ms (FindLiveObjects: 0.363291 ms CreateObjectMapping: 1.383792 ms MarkObjects: 6.907375 ms  DeleteObjects: 1.182709 ms)
+
+Prepare: number of updated asset objects reloaded= 0
